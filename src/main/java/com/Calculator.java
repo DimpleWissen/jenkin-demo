@@ -15,6 +15,7 @@ public class Calculator {
 		
 		add(10,20);
 		sub(30,10);
+		System.out.println("In main");
 	}
 
 }
